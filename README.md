@@ -1,6 +1,6 @@
-# 🐕 Desktop Pet - 韩国线条小狗马尔济斯
+# 🐕 Desktop Pet - 线条小狗马尔济斯
 
-一个基于 Electron + Canvas 的桌面宠物应用，主角是一只可爱的韩国线条风格马尔济斯犬。
+一个基于 Electron + Canvas 的桌面宠物应用，主角是一只可爱的线条风格马尔济斯犬。
 
 ![Electron](https://img.shields.io/badge/Electron-28-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue)
