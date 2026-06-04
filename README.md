@@ -36,7 +36,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/desktop-pet.git
+git clone https://github.com/LYX040925/desktop-pet.git
 cd desktop-pet
 
 # 安装依赖
